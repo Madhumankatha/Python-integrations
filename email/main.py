@@ -1,5 +1,5 @@
 from Email import Email
 
-email = Email("your_gmail@gmail.com", "password")
+email = Email("bcastudents4@gmail.com", "Bca@2k22")
 
-email.sendMail(['to_mail@gmail.com', 'to_mail_1@live.com'],"Test Mail", "Test Mail")
+email.sendMail(['madhumankatha@gmail.com', 'fourseasons.travel04@gmail.com'],"Test Mail", "Test Mail")
